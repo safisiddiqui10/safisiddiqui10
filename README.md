@@ -4,7 +4,7 @@
 <br><br>👯 **I’m looking to collaborate on**  <br>Exciting projects in:<br>- Quantum Computing  <br>- Artificial Intelligence  <br>- Data Science  <br>- Data Analytics  <br><br>I’m eager to work with people passionate about pushing the boundaries of these technologies.<br><br>
 <br><br>🤝 **I’m looking for help with**  <br>- Deepening my understanding of Quantum Computing and its real-world applications  <br>- Improving my skills in Artificial Intelligence & Data Science  <br>- Learning advanced data analysis techniques  <br><br>
 <br><br>🌱 **I’m currently learning**  <br>- Python for Data Science & Machine Learning  <br>- Expanding my MERN stack expertise  <br>- Exploring real-world AI applications  <br><br>
-<br><br>💬 **Ask me about**  <br>- Full Stack Development (React.js, Node.js, MongoDB)  <br>-Web Application Development & REST APIs  <br>- Machine Learning & Deep Learning (CNN, RNN, LSTM basic <br><br>-Data Science (Data Cleaning, EDA, Feature Engineering) <br><br>
+<br><br>💬 **Ask me about**  <br>- Full Stack Development (React.js, Node.js, MongoDB)  <br>-Web Application Development & REST APIs  <br>- Machine Learning & Deep Learning (CNN, RNN, LSTM basic <br>-Data Science(Data Cleaning, EDA, Feature Engineering) <br><br>
 <br><br>⚡ **Fun fact**  <br>I love solving complex challenges — whether it's building web applications or experimenting with advanced technologies. I'm always exploring ways to combine my skills with cutting-edge innovations 🚀  <br><br>
 
 
