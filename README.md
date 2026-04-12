@@ -1,6 +1,8 @@
 
 ## Hello Everyone<br><br> About Me:<br><br>🚀 **MERN Stack Developer | Aspiring Data Scientist | AI Engineer**<br><br>
-<br><br>🔭 **I’m currently working on**  <br>Building and optimizing full-stack web applications using the MERN stack to create dynamic, user-centric digital experiences.<br><br>
+<br><br>🔭 **I’m currently working on**  <br>I’m a passionate Full Stack Developer (MERN) and aspiring AI Engineer focused on building intelligent, scalable, and user-centric applications.
+
+I specialize in developing end-to-end web solutions and integrating data-driven intelligence into modern applications. My goal is not just to build software, but to create systems that are efficient, impactful, and future-ready..<br><br>
 <br><br>👯 **I’m looking to collaborate on**  <br>Exciting projects in:<br>-Web Development  <br>- Artificial Intelligence  <br>- Data Science  <br>- Data Analytics  <br><br>I’m eager to work with people passionate about pushing the boundaries of these technologies.<br><br>
 <br><br>🤝 **I’m looking for help with**  <br>- Deepening my understanding of Quantum Computing and its real-world applications  <br>- Improving my skills in Artificial Intelligence & Data Science  <br>- Learning advanced data analysis techniques  <br><br>
 <br><br>🌱 **I’m currently learning**  <br>- Python for Data Science & Machine Learning  <br>- Expanding my MERN stack expertise  <br>- Exploring real-world AI applications  <br><br>
