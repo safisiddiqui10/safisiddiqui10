@@ -136,3 +136,26 @@ I enjoy going beyond simply using AI APIs — I like understanding **how AI syst
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge\&logo=WordPress\&logoColor=white)
+
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="  <a href="[YOUR_PORTFOLIO_URL](https://safisiddiqui.vercel.app/)">">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/safi-siddiqui-b59aa930a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:safisiddiqui33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="[YOUR_KAGGLE_URL](https://www.kaggle.com/safisiddiqui10)">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="[YOUR_HUGGINGFACE_URL](https://huggingface.co/Safii10)">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+</p>
+
